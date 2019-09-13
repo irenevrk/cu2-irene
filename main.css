@@ -10,11 +10,16 @@ h2, h3, p, li {
 
 a {color:#999;}
 
-h1 {
+h3
+{
+    text-align: center;
+}
+
+h1, h4 {
     
     background-color: #C4BDAC;
     text-align: center;
-    padding: 5px;
+    padding: 20px;
 
 }
 
