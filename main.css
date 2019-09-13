@@ -1,0 +1,56 @@
+body {
+
+	background:#EDCFC4;
+	font-family:arial;
+}
+
+h2, h3, p, li {
+	color:black;
+}
+
+a {color:#999;}
+
+h1 {
+    
+    background-color: #C4BDAC;
+    text-align: center;
+    padding: 5px;
+
+}
+
+#left
+{
+    background-color: antiquewhite;
+    float: left;
+    width: 20%;
+    height: 1000px;
+
+
+    
+}
+
+#center
+
+{
+    background-color: #c4bdac;
+    float: left;
+    width: 60%;
+    height: 1000px;
+}
+
+
+#right
+
+{
+    background-color: antiquewhite;
+    float: left;
+    width: 20%;
+    height: 1000px;
+
+}
+
+#footer
+
+{
+    clear: both;
+}
